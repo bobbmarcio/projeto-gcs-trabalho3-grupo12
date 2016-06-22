@@ -1,4 +1,7 @@
 Nome artefato: Requisitos1.txt 
-Nome do(a) autor(a): Cauã Martins Pessoa
+Nome do(a) autor(a): Cauã M. Pessoa
+Hora da última alteração: 19:40:00
 Data de criação: 22/06/2016 
 Hora de criação: 19:15:05
+
+Requisito 1: O usuário deve ter login e senha no sistema
