@@ -1,4 +1,9 @@
 Nome artefato: ArquivoDeAgenda.txt 
-Nome do(a) autor(a): Márcio Gabriel Queiroz Flores
-Data de criação: 22/06/2016 
-Hora de criação: 15:59:20
+Nome do(a) autor(a): Mï¿½rcio Gabriel Queiroz Flores
+Data de criaï¿½ï¿½o: 22/06/2016 
+Hora de criaï¿½ï¿½o: 15:59:20
+
+Nome artefato: ArquivoDeAgenda.txt 
+Nome do(a) autor(a) da alteraÃ§Ã£o: CauÃ£ Martins Pessoa
+Data de criaÃ§Ã£o: 22/06/2016 
+Hora de criaÃ§Ã£o: 19:00:25
