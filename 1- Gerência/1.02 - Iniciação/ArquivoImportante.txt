@@ -2,3 +2,8 @@ Nome artefato: ArquivoImportante.txt
 Nome do(a) autor(a): Cauã Martins Pessoa
 Data de criação: 22/06/2016 
 Hora de criação: 11:19:18
+
+Nome artefato: ArquivoImportante.txt
+Nome do(a) autor(a) da alteração: Márcio Gabriel Queiroz Flores
+Data da alteração: 22/06/2016
+Hora da alteração: 16:09:04
