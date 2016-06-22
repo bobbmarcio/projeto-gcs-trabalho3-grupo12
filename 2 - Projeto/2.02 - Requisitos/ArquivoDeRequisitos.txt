@@ -1,0 +1,4 @@
+Nome artefato: ArquivoDeRequisitos.txt 
+Nome do(a) autor(a): Márcio Gabriel Queiroz Flores
+Data de criação: 22/06/2016 
+Hora de criação: 19:14:22
