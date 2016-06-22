@@ -1,0 +1,6 @@
+Nome artefato: Requisitos2.txt 
+Nome do(a) autor(a): Cauã M. Pessoa
+Data de criação: 22/06/2016 
+Hora de criação: 19:42:25
+
+documento criado no ramo 2

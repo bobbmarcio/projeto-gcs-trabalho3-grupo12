@@ -1,4 +1,6 @@
-Nome artefato: ArquivoDeRequisitos.txt 
-Nome do(a) autor(a): M�rcio Gabriel Queiroz Flores
-Data de cria��o: 22/06/2016 
-Hora de cria��o: 19:14:22
+Nome artefato: ArquivoDeRequisitos.txt -edição de linha
+Nome do(a) autor(a): Márcio Gabriel Queiroz Flores
+-adição de linha
+Data de criação: 22/06/2016 
+Hora de criação: 19:14:22
+-adição de linha
